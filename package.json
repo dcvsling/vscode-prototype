@@ -1,5 +1,5 @@
 {
-  "name": "angular2-vscode-debugable-prototype",
+  "name": "vscode-prototype",
   "version": "0.1.0",
   "description": "angular2 debugger in vscode prototype reference by angular2-seed project",
   "scripts": {
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dcvsling/angular2-vscode-debugable-prototype.git"
+    "url": "git+https://github.com/dcvsling/vscode-prototype.git"
   }
 }
